@@ -1,4 +1,3 @@
-# Sonam Phuntsho's Portfolio
 
 Hello! My name is Sonam Phuntsho, and I'm a front-end developer at Selise digital platform. I have a Bachelor's degree in Computer Application from Gyalpozhing College of Information Technology. Here's a quick summary of my skills and experience:
 
